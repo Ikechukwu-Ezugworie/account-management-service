@@ -1,0 +1,142 @@
+[
+  {
+    "firstName": "Chukwudi",
+    "lastName": "Okonkwo",
+    "email": "chukwudi.okonkwo@example.com",
+    "phoneNumber": "+234-801-234-5678",
+    "accounts": [
+      {"accountNumber": "ACC100001", "balance": 150000.75},
+      {"accountNumber": "ACC100002", "balance": 320000.00},
+      {"accountNumber": "ACC100003", "balance": 50000.25}
+    ]
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Bello",
+    "email": "aisha.bello@example.com",
+    "phoneNumber": "+234-802-345-6789",
+    "accounts": [
+      {"accountNumber": "ACC200001", "balance": 200000.50}
+    ]
+  },
+  {
+    "firstName": "Oluwaseun",
+    "lastName": "Adeyemi",
+    "email": "oluwaseun.adeyemi@example.com",
+    "phoneNumber": "+234-803-456-7890",
+    "accounts": []
+  },
+  {
+    "firstName": "Ibrahim",
+    "lastName": "Yusuf",
+    "email": "ibrahim.yusuf@example.com",
+    "phoneNumber": "+234-804-567-8901",
+    "accounts": [
+      {"accountNumber": "ACC300001", "balance": 450000.00},
+      {"accountNumber": "ACC300002", "balance": 120000.30}
+    ]
+  },
+  {
+    "firstName": "Ngozi",
+    "lastName": "Eze",
+    "email": "ngozi.eze@example.com",
+    "phoneNumber": "+234-805-678-9012",
+    "accounts": [
+      {"accountNumber": "ACC400001", "balance": 300000.00},
+      {"accountNumber": "ACC400002", "balance": 80000.15},
+      {"accountNumber": "ACC400003", "balance": 250000.90}
+    ]
+  },
+  {
+    "firstName": "Tunde",
+    "lastName": "Olawale",
+    "email": "tunde.olawale@example.com",
+    "phoneNumber": "+234-806-789-0123",
+    "accounts": [
+      {"accountNumber": "ACC500001", "balance": 180000.00}
+    ]
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Suleiman",
+    "email": "fatima.suleiman@example.com",
+    "phoneNumber": "+234-807-890-1234",
+    "accounts": []
+  },
+  {
+    "firstName": "Chinonso",
+    "lastName": "Nwachukwu",
+    "email": "chinonso.nwachukwu@example.com",
+    "phoneNumber": "+234-808-901-2345",
+    "accounts": [
+      {"accountNumber": "ACC600001", "balance": 500000.00},
+      {"accountNumber": "ACC600002", "balance": 75000.25}
+    ]
+  },
+  {
+    "firstName": "Aminat",
+    "lastName": "Lawal",
+    "email": "aminat.lawal@example.com",
+    "phoneNumber": "+234-809-012-3456",
+    "accounts": [
+      {"accountNumber": "ACC700001", "balance": 220000.50}
+    ]
+  },
+  {
+    "firstName": "Olumide",
+    "lastName": "Afolabi",
+    "email": "olumide.afolabi@example.com",
+    "phoneNumber": "+234-810-123-4567",
+    "accounts": [
+      {"accountNumber": "ACC800001", "balance": 350000.00},
+      {"accountNumber": "ACC800002", "balance": 90000.00},
+      {"accountNumber": "ACC800003", "balance": 150000.75}
+    ]
+  },
+  {
+    "firstName": "Chiamaka",
+    "lastName": "Okafor",
+    "email": "chiamaka.okafor@example.com",
+    "phoneNumber": "+234-811-234-5678",
+    "accounts": []
+  },
+  {
+    "firstName": "Sani",
+    "lastName": "Mohammed",
+    "email": "sani.mohammed@example.com",
+    "phoneNumber": "+234-812-345-6789",
+    "accounts": [
+      {"accountNumber": "ACC900001", "balance": 280000.00}
+    ]
+  },
+  {
+    "firstName": "Funmilayo",
+    "lastName": "Ogunleye",
+    "email": "funmilayo.ogunleye@example.com",
+    "phoneNumber": "+234-813-456-7890",
+    "accounts": [
+      {"accountNumber": "ACC1000011", "balance": 400000.00},
+      {"accountNumber": "ACC1000022", "balance": 60000.50}
+    ]
+  },
+  {
+    "firstName": "Emeka",
+    "lastName": "Ibeh",
+    "email": "emeka.ibeh@example.com",
+    "phoneNumber": "+234-814-567-8901",
+    "accounts": [
+      {"accountNumber": "ACC110001", "balance": 320000.25}
+    ]
+  },
+  {
+    "firstName": "Zainab",
+    "lastName": "Abubakar",
+    "email": "zainab.abubakar@example.com",
+    "phoneNumber": "+234-815-678-9012",
+    "accounts": [
+      {"accountNumber": "ACC120001", "balance": 250000.00},
+      {"accountNumber": "ACC120002", "balance": 100000.00},
+      {"accountNumber": "ACC120003", "balance": 180000.50}
+    ]
+  }
+]
