@@ -115,8 +115,8 @@
     "email": "funmilayo.ogunleye@example.com",
     "phoneNumber": "+234-813-456-7890",
     "accounts": [
-      {"accountNumber": "ACC100001", "balance": 400000.00},
-      {"accountNumber": "ACC100002", "balance": 60000.50}
+      {"accountNumber": "ACC1000011", "balance": 400000.00},
+      {"accountNumber": "ACC1000022", "balance": 60000.50}
     ]
   },
   {

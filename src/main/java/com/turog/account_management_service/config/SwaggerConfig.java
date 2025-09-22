@@ -14,7 +14,7 @@ public class SwaggerConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("Turog Customer Accounts REST API")
+                        .title("Turog Customer Accounts REST API - Java Test")
                         .description("RESTful API for managing customers and accounts in a microfinance bank. "
                                 + "This service provides endpoints for customer registration, account management, "
                                 + "and transaction operations such as deposits and withdrawals.")
