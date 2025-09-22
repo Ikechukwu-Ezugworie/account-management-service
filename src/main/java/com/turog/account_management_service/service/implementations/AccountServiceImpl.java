@@ -96,7 +96,7 @@ public class AccountServiceImpl implements AccountService {
         if (account.getBalance().compareTo(request.getAmount()) < 0) {
             log.error("Insufficient balance in account ID {}: balance {}, requested {}",
                     id, account.getBalance(), request.getAmount());
-            throw new IllegalArgumentException("Insufficient balance for withdrawal");
+            throw new IllegalArgumentException("Withdrawal exceeds balance. No overdraft allowed");
         }
         account.setBalance(account.getBalance().subtract(request.getAmount()));
         accountRepository.save(account);
