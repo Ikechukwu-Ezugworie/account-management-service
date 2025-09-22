@@ -31,3 +31,14 @@ The Customer Account Management Service is a Spring Boot application for Turog J
       Username: sa
       Password:
    ```
+   
+## Tech stack used
+1. Java
+2. Springboot
+3. Maven
+4. H2 database
+
+## Assumptions made
+1. A Customer can have multiple accounts
+2. An account can only belong one customer
+3. An account can only be created with zero balance before there can be deposits
